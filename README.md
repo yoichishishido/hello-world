@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi someone!
+
+I am about to attend the group meeting.
